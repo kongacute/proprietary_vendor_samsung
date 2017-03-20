@@ -154,3 +154,9 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/vendor/lib/libsrv_init.so:system/vendor/lib/libsrv_init.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libsrv_um.so:system/vendor/lib/libsrv_um.so \
     vendor/samsung/i9500/proprietary/vendor/lib/libusc.so:system/vendor/lib/libusc.so
+
+# Manually Added
+PRODUCT_COPY_FILES += \
+    vendor/samsung/i9500/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/samsung/i9500/proprietary/vendor/lib/libLifevibes_lvverx.so:system/vendor/lib/libLifevibes_lvverx.so \
+    vendor/samsung/i9500/proprietary/vendor/lib/libLifevibes_lvvetx.so:system/vendor/lib/libLifevibes_lvvetx.so
