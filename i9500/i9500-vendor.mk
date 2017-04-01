@@ -62,6 +62,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/i9500/proprietary/lib/hw/gps.universal5410.so:system/lib/hw/gps.universal5410.so \
     vendor/samsung/i9500/proprietary/lib/hw/sensorhubs.universal5410.so:system/lib/hw/sensorhubs.universal5410.so \
     vendor/samsung/i9500/proprietary/lib/hw/sensors.universal5410.so:system/lib/hw/sensors.universal5410.so \
+    vendor/samsung/i9500/proprietary/lib/omx/libOMX.Exynos.AVC.Encoder.so:system/lib/omx/libOMX.Exynos.AVC.Encoder.so \
     vendor/samsung/i9500/proprietary/lib/libakm.so:system/lib/libakm.so \
     vendor/samsung/i9500/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/i9500/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so \
