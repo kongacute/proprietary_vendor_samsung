@@ -144,6 +144,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jalteskt/proprietary/lib/hw/audio_policy.universal5410.so:system/lib/hw/audio_policy.universal5410.so \
     vendor/samsung/jalteskt/proprietary/lib/hw/gps.universal5410.so:system/lib/hw/gps.universal5410.so \
     vendor/samsung/jalteskt/proprietary/lib/lib_DNSe_NRSS_ver226.so:system/lib/lib_DNSe_NRSS_ver226.so \
+    vendor/samsung/jalteskt/proprietary/lib/lib_SA_GoogleFX_ver119k.so:system/lib/lib_SA_GoogleFX_ver119k.so \
     vendor/samsung/jalteskt/proprietary/lib/lib_SamsungRec_V03011b.so:system/lib/lib_SamsungRec_V03011b.so \
     vendor/samsung/jalteskt/proprietary/lib/lib_Samsung_AudioZoom_v102.so:system/lib/lib_Samsung_AudioZoom_v102.so \
     vendor/samsung/jalteskt/proprietary/lib/lib_Samsung_Resampler.so:system/lib/lib_Samsung_Resampler.so \
@@ -151,12 +152,16 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jalteskt/proprietary/lib/lib_SoundAlive_SRC192_ver205.so:system/lib/lib_SoundAlive_SRC192_ver205.so \
     vendor/samsung/jalteskt/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
     vendor/samsung/jalteskt/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
+    vendor/samsung/jalteskt/proprietary/lib/libaudiosa.so:system/lib/libaudiosa.so \
+    vendor/samsung/jalteskt/proprietary/lib/libmysound.so:system/lib/libmysound.so \
+    vendor/samsung/jalteskt/proprietary/lib/libsamsungDiamondVoice.so:system/lib/libsamsungDiamondVoice.so \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungRecord_zoom.so:system/lib/libsamsungRecord_zoom.so \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
     vendor/samsung/jalteskt/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/jalteskt/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/jalteskt/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/jalteskt/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/jalteskt/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
     vendor/samsung/jalteskt/proprietary/lib/libymc_config.so:system/lib/libymc_config.so \
