@@ -17,7 +17,6 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/jalteskt/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/jalteskt/proprietary/bin/gpsd:system/bin/gpsd \
-    vendor/samsung/jalteskt/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/jalteskt/proprietary/etc/ymc/param/aec_adc.dat:system/etc/ymc/param/aec_adc.dat \
     vendor/samsung/jalteskt/proprietary/etc/ymc/param/aec_ae0_monomix.dat:system/etc/ymc/param/aec_ae0_monomix.dat \
     vendor/samsung/jalteskt/proprietary/etc/ymc/param/aec_ae0_through.dat:system/etc/ymc/param/aec_ae0_through.dat \
@@ -155,8 +154,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jalteskt/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/jalteskt/proprietary/lib/libaudiosa.so:system/lib/libaudiosa.so \
     vendor/samsung/jalteskt/proprietary/lib/libmysound.so:system/lib/libmysound.so \
-    vendor/samsung/jalteskt/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
-    vendor/samsung/jalteskt/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungDiamondVoice.so:system/lib/libsamsungDiamondVoice.so \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
