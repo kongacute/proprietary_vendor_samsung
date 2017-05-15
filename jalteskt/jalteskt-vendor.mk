@@ -164,6 +164,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jalteskt/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
     vendor/samsung/jalteskt/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/jalteskt/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/jalteskt/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/jalteskt/proprietary/lib/libtinyxml.so:system/lib/libtinyxml.so \
     vendor/samsung/jalteskt/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/jalteskt/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
