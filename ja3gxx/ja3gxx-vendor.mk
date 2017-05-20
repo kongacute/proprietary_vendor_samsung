@@ -17,9 +17,13 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/ja3gxx/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/ja3gxx/proprietary/bin/gpsd:system/bin/gpsd \
+    vendor/samsung/ja3gxx/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/ja3gxx/proprietary/lib/hw/gps.universal5410.so:system/lib/hw/gps.universal5410.so \
+    vendor/samsung/ja3gxx/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/samsung/ja3gxx/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/ja3gxx/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/ja3gxx/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/ja3gxx/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/ja3gxx/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/ja3gxx/proprietary/vendor/firmware/bcm4335_V0343.0347.hcd:system/vendor/firmware/bcm4335_V0343.0347.hcd \
     vendor/samsung/ja3gxx/proprietary/vendor/firmware/es325_fw.bin:system/vendor/firmware/es325_fw.bin \
