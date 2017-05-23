@@ -63,6 +63,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/exynos5410-common/proprietary/lib/libakm.so:system/lib/libakm.so \
     vendor/samsung/exynos5410-common/proprietary/lib/libexynoscamera.so:system/lib/libexynoscamera.so \
     vendor/samsung/exynos5410-common/proprietary/lib/libgnustl_shared.so:system/lib/libgnustl_shared.so \
+    vendor/samsung/exynos5410-common/proprietary/lib/libhwjpeg.so:system/lib/libhwjpeg.so \
     vendor/samsung/exynos5410-common/proprietary/lib/libsensirion_j1.so:system/lib/libsensirion_j1.so \
     vendor/samsung/exynos5410-common/proprietary/lib/libsensorhub.so:system/lib/libsensorhub.so \
     vendor/samsung/exynos5410-common/proprietary/lib/libsensorhubcontext.so:system/lib/libsensorhubcontext.so \
