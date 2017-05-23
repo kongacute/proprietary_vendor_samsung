@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/samsung/ja3gchnduos/proprietary/bin/cbd:system/bin/cbd \
     vendor/samsung/ja3gchnduos/proprietary/bin/gpsd:system/bin/gpsd \
+    vendor/samsung/ja3gchnduos/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/ja3gchnduos/proprietary/etc/ymc/param/aec_adc.dat:system/etc/ymc/param/aec_adc.dat \
     vendor/samsung/ja3gchnduos/proprietary/etc/ymc/param/aec_ae0_monomix.dat:system/etc/ymc/param/aec_ae0_monomix.dat \
     vendor/samsung/ja3gchnduos/proprietary/etc/ymc/param/aec_ae0_through.dat:system/etc/ymc/param/aec_ae0_through.dat \
@@ -180,6 +181,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ja3gchnduos/proprietary/lib/lib_SoundAlive_SRC192_ver205.so:system/lib/lib_SoundAlive_SRC192_ver205.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/lib_soundaliveresampler.so:system/lib/lib_soundaliveresampler.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
+    vendor/samsung/ja3gchnduos/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/samsung/ja3gchnduos/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsamsungRecord_zoom.so:system/lib/libsamsungRecord_zoom.so \
@@ -187,6 +190,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsec-ril-cdma.so:system/lib/libsec-ril-cdma.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/ja3gchnduos/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libymc_config.so:system/lib/libymc_config.so \
