@@ -19,6 +19,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jaltelgt/proprietary/bin/ks_9x15:system/bin/ks_9x15 \
     vendor/samsung/jaltelgt/proprietary/bin/qcks:system/bin/qcks \
     vendor/samsung/jaltelgt/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/samsung/jaltelgt/proprietary/bin/rild:system/bin/rild \
     vendor/samsung/jaltelgt/proprietary/etc/Diag.cfg:system/etc/Diag.cfg \
     vendor/samsung/jaltelgt/proprietary/etc/Diag_zero.cfg:system/etc/Diag_zero.cfg \
     vendor/samsung/jaltelgt/proprietary/etc/ymc/param/aec_adc.dat:system/etc/ymc/param/aec_adc.dat \
@@ -155,12 +156,15 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jaltelgt/proprietary/lib/libaudio-ril.so:system/lib/libaudio-ril.so \
     vendor/samsung/jaltelgt/proprietary/lib/libcsd-client.so:system/lib/libcsd-client.so \
     vendor/samsung/jaltelgt/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+    vendor/samsung/jaltelgt/proprietary/lib/libreference-ril.so:system/lib/libreference-ril.so \
+    vendor/samsung/jaltelgt/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsamsungRecord.so:system/lib/libsamsungRecord.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsamsungRecord_ns.so:system/lib/libsamsungRecord_ns.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsamsungRecord_zoom.so:system/lib/libsamsungRecord_zoom.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
+    vendor/samsung/jaltelgt/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/jaltelgt/proprietary/lib/libssaudio-client.so:system/lib/libssaudio-client.so \
     vendor/samsung/jaltelgt/proprietary/lib/libxml.so:system/lib/libxml.so \
     vendor/samsung/jaltelgt/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
