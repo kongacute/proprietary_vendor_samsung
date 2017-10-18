@@ -199,7 +199,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ja3gduosctc/proprietary/lib/libsec-ril-cdma.so:system/lib/libsec-ril-cdma.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/libseckeyprov.so:system/lib/libseckeyprov.so \
-    vendor/samsung/ja3gduosctc/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \
     vendor/samsung/ja3gduosctc/proprietary/lib/libymc_config.so:system/lib/libymc_config.so \

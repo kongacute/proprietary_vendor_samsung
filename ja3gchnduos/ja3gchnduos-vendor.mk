@@ -189,7 +189,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsec-ril-cdma.so:system/lib/libsec-ril-cdma.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/ja3gchnduos/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libwrappergps.so:system/lib/libwrappergps.so \
     vendor/samsung/ja3gchnduos/proprietary/lib/libymc_codecctrl.so:system/lib/libymc_codecctrl.so \

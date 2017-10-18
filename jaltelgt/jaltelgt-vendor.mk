@@ -163,7 +163,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/jaltelgt/proprietary/lib/libsamsungRecord_zoom.so:system/lib/libsamsungRecord_zoom.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsamsungSoundbooster.so:system/lib/libsamsungSoundbooster.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsec-ril.so:system/lib/libsec-ril.so \
-    vendor/samsung/jaltelgt/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
     vendor/samsung/jaltelgt/proprietary/lib/libsecril-client.so:system/lib/libsecril-client.so \
     vendor/samsung/jaltelgt/proprietary/lib/libssaudio-client.so:system/lib/libssaudio-client.so \
     vendor/samsung/jaltelgt/proprietary/lib/libxml.so:system/lib/libxml.so \
